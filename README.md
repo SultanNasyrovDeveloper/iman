@@ -45,7 +45,7 @@ https://yarnpkg.com/lang/en/docs/install/#debian-stable
 
 Install front end dependencies
 ```
-cd path/to/envirement/folder
+cd path/to/project/folder
 yarn install
 ```
 
