@@ -50,7 +50,7 @@ mccabe==0.6.1
 more-itertools==8.0.2
 pbr==5.4.4
 pep8-naming==0.9.1
-Pillow==6.2.1
+Pillow==8.1.1
 pipenv==2018.11.26
 psycopg2-binary==2.7.6.1
 pycodestyle==2.5.0
